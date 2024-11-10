@@ -4,6 +4,6 @@
 - 🎓 I am a student
 - 💻 I like technology
 - 👾 I'm passionate about Linux  
-- 🤔 I use archlinux
-- 📝 I'm learning python
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" align="right" width="400" height="400"/> 
+- 🤔 I use Archlinux
+- 📝 I'm learning Python
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" align="right" width="400" height="400"/> 
